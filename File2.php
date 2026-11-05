@@ -1,0 +1,4 @@
+<?php
+
+$war -"test";
+print
